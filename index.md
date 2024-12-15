@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [X] get Home work done
+- [ ] Make sure it's correct
+- [ ] Play games after
